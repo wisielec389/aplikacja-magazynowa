@@ -4,6 +4,9 @@ import pandas as pd
 # Konfiguracja strony
 st.set_page_config(page_title="System Magazynowy 1.0", layout="wide")
 
+url = "https://twoje-id.supabase.co"
+key = "twój-anon-public-key"
+
 # Stałe
 MAX_MIEJSC = 10
 MAX_OBCIAZENIE_KG = 1000
