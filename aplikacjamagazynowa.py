@@ -4,8 +4,8 @@ import pandas as pd
 # Konfiguracja strony
 st.set_page_config(page_title="System Magazynowy 1.0", layout="wide")
 
-url = "https://twoje-id.supabase.co"
-key = "twój-anon-public-key"
+url = "https://kbcongdxkmqslelnwlyb.supabase.co"
+key = "sb_publishable_yRbdy6MIkJrzYsXHh0YQOQ_oy47EWeO"
 
 # Stałe
 MAX_MIEJSC = 10
